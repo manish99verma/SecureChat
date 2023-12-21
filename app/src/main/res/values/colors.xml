@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gradient_start">#3A8CE2</color>
+    <color name="gradient_end">#4CABFF</color>
+    <color name="color_image_bg">#DCDCDC</color>
+
+    <color name="txt_msg_home">#302E2E</color>
+    <color name="msg_rect_bg">#D2D2D2</color>
+</resources>

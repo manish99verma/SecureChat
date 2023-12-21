@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316075214882",
+    "project_id": "chat-7ebb7",
+    "storage_bucket": "chat-7ebb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316075214882:android:67f14aac146dcf6189627b",
+        "android_client_info": {
+          "package_name": "com.manish.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuEKnYdmFK6ttbElL7v4JSqa7tvw_8_ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
