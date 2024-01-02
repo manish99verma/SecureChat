@@ -1,0 +1,2 @@
+#Secure Chat App
+![Spash Screen] (https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSedtYgmbEMW27LTs49N3PNaHUhW9DJd8ZGjSt3HuiaryCFj3SOmgG99zkEwW1pDjMPta8wI7mKICmPxuAHu5nRaUgQQyC9qSp5VWAxhamgWFo_Vl8mQXC6zMBkEz8nJOf-k4Qj8bZqsQvcDs9F6v4eHfrLbk2GH2H6CypAX3_zQv4QPVWNYLBLATzd00/s2646/Screenshot_20240102_210856.png)
