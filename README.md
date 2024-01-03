@@ -10,6 +10,7 @@ You can chat with your friends and family.
 - Share Images
 - Login with email and password
 - Incredible UI
+- Can delete sent messages instantly
 
 
 ## Tech Stack
