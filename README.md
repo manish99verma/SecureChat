@@ -26,10 +26,6 @@ You can chat with your friends and family.
 
 ## Apk Link
 
-[Click to download](https://drive.google.com/file/d/1vPOWrg94IlTAlSRNubivtJ1hrM7j6aIc/view?usp=sharing)
-
-## Apk Link
-
 [Click to download](https://drive.google.com/file/d/1OMzSOqLp_lBFLD4S3D3XzeSUtqzq4Ku0/view?usp=sharing)
 ### Authentication
 
