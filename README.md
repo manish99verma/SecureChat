@@ -1,35 +1,62 @@
 
-# Secure Chat
 
-You can chat with your friends and family.
+# Secure Chat App (Android)
 
+Welcome to my Secure Chat project! This Android application is crafted to offer seamless communication and connection through intuitive messaging features, showcasing my expertise in mobile app development using Kotlin.
+
+## Overview
+
+Secure Chat is a versatile chat application designed to simplify communication between individuals. With an emphasis on user experience and functionality, it provides a platform for instant messaging and image sharing.
+
+<h2 align="left">
+<sub>
+<img  src="metadata/readme/phone.svg"
+      height="30"
+      width="30">
+</sub>
+Screenshots
+</h2>
+
+<div style="width:100%; display:flex; justify-content: space-evenly; align-items: center;">
+
+[<img src="metadata/screenshots/screenshot_1.png" width=30% alt="Home">](metadata/screenshots/screenshot_1.png)
+[<img src="metadata/screenshots/screenshot_2.png" width=30% alt="Home">](metadata/screenshots/screenshot_2.png)
+[<img src="metadata/screenshots/screenshot_3.png" width=30% alt="Home">](metadata/screenshots/screenshot_3.png)
+
+</div>
 
 ## Features
 
-- Realtime Chats
-- Share Images
-- Login with email and password
-- Incredible UI
-- Can delete sent messages instantly
+### Instant Messaging
+
+- **Real-time Chat**: Engage in instant one-on-one or group conversations with friends and family.
+
+### Media Sharing
+
+- **Photo Sharing**: Share memorable moments with others through photos within the chat.
+
+### Security and Privacy
+
+ **Privacy Controls**: Manage privacy settings, including last seen status.
+
+## Technologies Used
+
+- **Language**: 100% Kotlin
+- **Development Platform**: Android Studio
+- **Backend**: Firebase
+- **Authentication**: Firebase Authentication
+- **Architecture pattern**: MVVM(Google's Recommended)
+
+## Installation
+
+The Secure Chat App is currently available for Android devices only. To install the app, follow these steps:
+
+1. [Download Apk](https://manish99verma.github.io/my-portfolio/assets/apks/secure-chat.apk)
+2. Enable installation from unknown sources in your device settings.
+3. Install the APK file on your Android device.
+4. Open the app and start enjoying Secure Chat!
 
 
-## Tech Stack
+## Contact
 
-**Architecture Pattern:** MVVM
-
-**Server:** Firebase - Authentication, Realtime Database, Storage
-
-
-## Screenshots
-
-![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0OweN7bS62itB9JbIAxzv_o6MEkqRmurS7gi3mO6k5I5PI8XSLJhKyVfa8SauZV5kvT93FqW_KHiyXSD1ayj2Ubys7LEcAux130Nnco_ng-cCrLnlLYNgM41glD8C15047wzBkyq7tVNM2bvSCAK5ismE47MtAnXoFA9uSFvNw9cG7zUBZrgbMTxa7pM/s3288/Chat%20App.png)
-
-## Apk Link
-
-[Click to download](https://drive.google.com/file/d/1OMzSOqLp_lBFLD4S3D3XzeSUtqzq4Ku0/view?usp=sharing)
-### Authentication
-
-Email - "andy123@gmail.com"
-
-Password - "123456"
-
+For any inquiries or feedback, feel free to reach out to me at manish6203993@gmail.com
